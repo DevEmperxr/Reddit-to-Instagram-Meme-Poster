@@ -27,7 +27,7 @@ Before running the script, ensure you have the following installed:
 
 ## Usage
 
-1. Run the script by executing `python script.py`.
+1. Run the script by executing `python bot.py`.
 2. Enter your Instagram username and password when prompted.
 3. The script will fetch top memes from the specified Reddit subreddit (`r/meirl` by default), download them, and post them to your Instagram account.
 4. Memes will be posted with the specified hashtags.
